@@ -4,7 +4,7 @@ Olá! Seja bem-vindo ao meu repositório de aprendizado.
 
 Atualmente, sou estudante de programação e estou focado em construir uma base sólida em Python. Utilizo o IDLE como meu ambiente principal para praticar lógica, sintaxe e resolver desafios iniciais.
 
-# O objetivo 
+# O Objetivo 
 Este espaço funciona como o meu diário de bordo. Aqui você vai encontrar:
 * Meus primeiros códigos de programação.
 * Resoluções de exercícios de lógica.
